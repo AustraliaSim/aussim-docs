@@ -1,0 +1,41 @@
+# Project Information
+site_name: AustraliaSim Docs
+site_url: https://australiasim.github.io
+edit_uri: edit/main/docs/
+
+
+plugins:
+  - search
+  - awesome-pages
+
+  
+# Configuration
+theme:
+  name: material
+  font:
+    text: Mulish
+  palette:
+    scheme: slate
+    primary: teal
+  features:
+    - navigation.instant
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.tracking    
+    - navigation.indexes
+    - search.suggest
+    - search.highlight
+    - search.share
+  favicon: https://media.discordapp.net/attachments/556655732066353178/1017562256462061619/AusSimLogo.png
+
+extra:
+  social:
+    - icon: fontawesome/brands/reddit
+      link: https://reddit.com/r/australiasim
+
+markdown_extensions:
+  - attr_list
+  - md_in_html
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
