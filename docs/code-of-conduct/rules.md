@@ -29,11 +29,16 @@ Do not impersonate real life figures
 This includes matching your discord account and/or reddit account to that person.
 This does not include the use of pictures for in-sim face steals. 
 
-## Fostering harmful opinions
-Do not attempt to spread or encourage opinions which are harmful or toxic or otherwise not appropriate in modern discourse
-This includes but is not limited to bigotry, racism, transphobia, ableism
-This will be assessed on a case-by-case basis
-Genuine belief is not a defence. 
+## Fostering hateful opinions
+Do not attempt to spread or encourage opinions which are hateful or toxic or otherwise not appropriate in modern discourse.
+This includes but is not limited to bigotry, racism, transphobia, and ableism.  
+This will be assessed on a case-by-case basis.  
+Genuine belief is not a defence. You can genuinely believe something that isn't widely agreed with, without violating this rule through abusive language.
+
+!!! note "Example"
+    This rule seeks to directly address abusive speech that falls under the banner of hate speech, including racism.
+
+    For example, someone may disagree with the actions of a First Nations person when it comes to First Nations issues. Calling them a "race traitor", or calling into question their heritage, would be racism and therefore not allowed.
 
 ## Posting inappropriate content.
 Do not post content which is not appropriate to Australiasim.
@@ -41,17 +46,18 @@ This includes but is not limited to content which sexual, pornographic, gore, hi
 Generally, this means things that are NSFW.
 Content which is appropriate to be discussed in Australiasim but may be distressing to some users should be spoilers and otherwise flagged with a content warning.
 
+This community is open to people aged 13 to 17 and therefore you must consider that this is an environment where vulnerable people should be protected from such content.
+
 ## Spam
 Do not post such that it is disruptive to the server.
 This includes but is not limited to repeated pinging of users, posting the same thing or similar things multiple times in quick succession, posting very long messages for no reason, attempting to disrupt a conversation for no good reason, and posting memes outside of contextually appropriate conversations/locations.
 
-## Breaking Reddit or discord rules
-Do not break any reddit or discord rules.
+## Breaking Reddit or Discord Rules.
+Do not violate the Reddit or Discord Terms of Service.
 
 ## Alting
-Do not use more than one account in Australiasim, unless otherwise approved.
+Do not use more than one account in AustraliaSim, unless otherwise approved.
 This includes but is not limited to using multiple reddit accounts, or multiple discord accounts.
 This also includes attempts to vote multiple times in meta votes.
-Should you wish to change accounts, make sure to gain permission from the community moderator.
-
+Should you wish to change accounts, please discontinue using the previous one, and let a Moderator know.
 
