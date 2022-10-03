@@ -15,7 +15,7 @@ theme:
   font:
     text: Mulish
   palette:
-    scheme: slate
+    scheme: default
     primary: teal
   features:
     - navigation.instant
