@@ -115,7 +115,7 @@ A meta referendum for electing anyone to a meta position via public nomination m
 	* The Moderation Team vote unanimously to remove them or;
 	* A vote of no confidence determines they are to be removed.
 
-###  Votes of no confidence
+### Votes of no confidence
 
 * An vote of no confidence is a Meta Referendum held if the community wishes to remove someone from a position.
 * Votes of no confidence require—
@@ -128,8 +128,12 @@ A meta referendum for electing anyone to a meta position via public nomination m
 ## Guardian
 
 * The Guardian functions as the owner of the AustraliaSim subreddits and Discord server.
+* There may only be one Guardian appointed at any time. _(see note)_
 * A Guardian is appointed through a Meta Referendum which returns 65% or more approval.
 * Notwithstanding subsection 33 (1), an amendment to the Meta Constitution relating to the office of the Guardian may only be made if the Meta Referendum returns 65% or more approval
+
+!!! Note
+    Until one of the present Guardians resign, this clause is not in force. (October 2022)
 
 ## Administrators
 
@@ -144,6 +148,7 @@ The Administrators are the primary administrators of AustraliaSim and act as ove
 
 * An Administrator is appointed via a Meta Referendum that must return a 65% or more approval rating for the person nominated.
 * Administrators must be re-approved under the same approval every 12 months.
+* Administrators must verifiably be 18 years of age or older.
 
 
 ### Head Administrator
@@ -152,7 +157,7 @@ The Administrators are the primary administrators of AustraliaSim and act as ove
 * The Head Administrator can—
     * act as any other Administrator when required; and
     * overrule anyone acting under a rule.
-* However, the Head Administrator cannot overrule the Moderation Team.
+* However, the Head Administrator cannot overrule a vote of the Administrators.
 * The Head Administrator can make a rule prescribing matters—
     * required or permitted by this Meta Constitution to be prescribed by a rule; or
     * necessary or convenient to be prescribed for carrying out or giving effect to this Constitution; or
@@ -161,40 +166,56 @@ The Administrators are the primary administrators of AustraliaSim and act as ove
 
 ###  Community Administrator
 
-* The Community Administrator is responsible for the moderation of the community its members.
+* The Community Administrator is responsible for the meta aspects of the community, including but not limited to:-
+    * community management and moderation;
+    * roles, powers, permissions;
+    * the AustraliaSim Discord server and subreddits.
 * The Community Administrator can overrule anyone acting under a Meta Rule made under the Community Administrator’s heads of power;
 * The Community Administrator may make rules with respect to—
     * community management and conduct;
-    * membership, including application, refusal and withdrawal;
+    * member management, including bans and refusal of access;
     * permissions, access and roles;
-    * the role, powers, permissions of—
-        * Community Managers
+    * the role, powers, permissions of Discord/Subreddit Moderators;
     * alternative accounts and persons;
     * any other similar matter.
 
 ### Game Administrator
 
 * The Game Administrator is responsible for elections, parties and events.
-* The Game Administrator can overrule anyone acting under a Meta Rule made under the Game Administrator’s heads of power;
-* However, the Game Administrator cannot overrule the Head Administrator or the Moderation Team
-* The Game Administrator is the head of the Electoral Commission and is the canon Electoral Commissioner.
-* The Game Administrator may make Meta Rules with respect to—
-    * the role, powers, permissions of members of the Electoral Commission;
-    * political parties;
-    * elections and campaigning;
-    * the press and media;
-    * events; and
-    * any other similar matter.
-* The Game Administrator is responsible for the parliament and press.
-* The Game Administrator can overrule anyone acting under a Meta Rule made under the Game Administrator’s heads of power;
-* The Game Administrator may chair either chamber of Parliament as a Clerk when required.
+* The Game Administrator can overrule anyone acting under a Meta Rule made under the Game Administrator's heads of power.
+
+##### Responsibilites 
+
+
+###### Parliament and High Court
+
+* The Game Administrator is responsible for overseeing the operations of the Parliament, including the High Court of Justice
 * The Game Administrator may make Meta Rules with respect to—
     * the running of Parliament;
     * the activity requirements for members of Parliament;
     * the role, powers, permissions of—
         * Clerks;
+        * Speakership;
         * Parliamentarians; and
         * Justices, in their canon jurisdiction;
+    * any other similar matter.
+
+###### Electoral Commissioner
+
+* The Game Administrator is the head of the Electoral Commission and is the canon Electoral Commissioner.
+* The Game Administrator may make Meta Rules with respect to—
+    * the role, powers, permissions of members of the Electoral Commission;
+    * political parties;
+    * elections and campaigning;
+    * any other similar matter.
+
+###### Events and Media
+
+* The Game Administrator is responsible for overseeing the Events Team, and the media/press aspect of AustraliaSim.
+* The Game Administrator may make rules with respect to-:
+    * the role, powers, permissions of members of the Events Team;
+    * the press and media;
+    * the AustraliaSim Broadcasting Corporation;
     * any other similar matter.
 
 
