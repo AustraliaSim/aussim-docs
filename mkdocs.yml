@@ -1,7 +1,7 @@
 # Project Information
 site_name: AustraliaSim Docs
 site_url: https://australiasim.github.io
-edit_uri: edit/main/docs/
+edit_uri: https://github.com/AustraliaSim/aussim-docs/edit/main/docs/
 
 
 plugins:
