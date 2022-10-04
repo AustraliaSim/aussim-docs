@@ -346,7 +346,7 @@ In this Meta Constitution, election includes—
 * All election results must be verified in a manner which is approved unanimously by the Moderation Team.
 
 
-#### Events
+### Events
 
 * All aspects of the event, from its creation, management, and ending, are managed by the Events Team.
 * Other than when an event will take place, any person with knowledge must not directly or indirectly inform any other member of the details of an event before it is publicly released.
