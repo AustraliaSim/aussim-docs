@@ -50,10 +50,10 @@ A meta referendum is a community wide vote on a election to a position or a chan
 
 To vote in a meta referendum, a person must-
 
-* Hold a meta position (e.g. Moderation Team, Speaker of the House, Clerk); or
+* Hold a meta position (e.g. Administrators, Speaker of the House, Clerk); or
 * Hold a canon position (e.g. MP, Senator, Justice); or
 * Be consistently active within the community in other means; or
-* Hold the approval of the Moderation Team.
+* Hold the approval of the Administrators.
 
 ### Method of voting
 
@@ -62,8 +62,8 @@ A meta referendum must—
 * be an approval vote unless specified; and
 * last for at least 48 hours but no more than 72; and
 * be a secret ballot; and
-* be conducted by a Moderation Team member; and
-* have the results verified by the whole Moderation Team; and
+* be conducted by an Administrator; and
+* have the results verified by all Administrators; and
 	* In the case of votes relating to electing the Head Administrator or a Guardian, the incumbent Guardian is to verify the results.
 * and require at least a 50% majority or more of voters to pass unless specified elsewhere.
 
@@ -75,11 +75,11 @@ A meta referendum for electing anyone to a meta position via public nomination m
 * Nominations are to be solicited via a Reddit post for at least 72 hours.
 *  A nomination must secure the following number of seconders:
     * Guardian - 10
-    * Moderation Team member - 6
+    * Administrator - 6
     * All other - 4
-* The Moderation Team must accept all eligible nominations reach the required number of seconders unless:
-    * The nominated person has committed prior misconduct contrary to the Code of Conduct or similar of such severity that the Moderation Team is satisfied that the nomination should not proceed; or
-    * The nomination person has, in the opinion of the Moderation Team, demonstrated an inability to hold the position.
+* The Administrators must accept all eligible nominations reach the required number of seconders unless:
+    * The nominated person has committed prior misconduct contrary to the Code of Conduct or similar of such severity that the Administrators is satisfied that the nomination should not proceed; or
+    * The nomination person has, in the opinion of the Administrators, demonstrated an inability to hold the position.
 
 ### Debate period
 
@@ -90,8 +90,8 @@ A meta referendum for electing anyone to a meta position via public nomination m
 
 ### Limitations on holding a position 
 
-* Guardians, Moderation Team members, Justices, and members of the Electoral Commission cannot be a Member of Parliament, Senator, President/Governor-General, a candidate in an election or any other similar canon position or role.
-* Guardians or Moderation Team members cannot hold any other position (except Community Manager).
+* Guardians, Administrators, members of the Events Team, and members of the Electoral Commission cannot be a Member of Parliament, Senator, President/Governor-General, a candidate in an election, a member of a party, or any other similar canon position or role.
+* Guardians and Administrators cannot hold any other position (except Community Manager).
 
 ### Making decisions
 
@@ -189,15 +189,15 @@ The Administrators are the primary administrators of AustraliaSim and act as ove
 
 ###### Parliament and High Court
 
-* The Game Administrator is responsible for overseeing the operations of the Parliament, including the High Court of Justice
+* The Game Administrator is responsible for overseeing the operations of the Parliament, including the High Court of Australia.
 * The Game Administrator may make Meta Rules with respect to—
-    * the running of Parliament;
+    * Parliament;
     * the activity requirements for members of Parliament;
     * the role, powers, permissions of—
         * Clerks;
         * Speakership;
-        * Parliamentarians; and
-        * Justices, in their canon jurisdiction;
+        * Parliamentarians; 
+        * the High Court of Australia
     * any other similar matter.
 
 ###### Electoral Commissioner
@@ -219,258 +219,180 @@ The Administrators are the primary administrators of AustraliaSim and act as ove
     * any other similar matter.
 
 
-### Division 2	Other Roles
+## Other Positions
 
+### Speakership
 
+#### Clerks
 
-* Clerks
-* The Clerks manage the Parliament and help maintain the AustraliaSim documentation.
+* The Clerks manage the Parliament, assist the Speaker of the House and President of the Senate, and help maintain the AustraliaSim documentation.
 * A Clerk is tasked with—
-    * chairing the chambers of Parliament; and
-    * updating Parliamentary voting logs and membership history; and
-    * updating the Parliamentary subreddits and discord channels; and
+    * chairing the chambers of Parliament when required to; and
+    * updating Parliamentary voting records and history; and
+    * updating the Parliamentary subreddits and Discord channels; and
     * ensuring decorum within the chambers of Parliament; and
     * any other similar tasks.
 * A member becomes a Clerk by—
     * being nominated by the Game Administrator; and
     * passing a Meta Referendum.
-* Clerks must face a Meta Referendum every 6 months which must return 50% approval.
-* References to the Speaker of the House, President of the Senate and related deputies are taken to also be a refence to a Clerk.
-*  Community Managers
-* The Community Managers moderate the AustraliaSim Discord and the AustraliaSim Reddit.
-* Community Managers must face a Meta Referendum every 6 months which must return 50% approval.
-* A member becomes a Community Manager by—
-    * being nominated by the Community Administrator; and
+* The Game Administrator may make a rule that modifies the method of election and responsibilites for Clerks.
+* References to the Speaker of the House, President of the Senate and related deputies are taken to also be a reference to a Clerk.
+
+#### Speaker of the House
+
+* The Speaker of the House manages the lower house of Parliament, the House of Representatives.
+* The Speaker of the House is tasked with:-
+    * chairing the House, and Senate if required to; and
+    * updating House voting records and history; and
+    * updating the House subreddit and Discord channels;
+    * ensuring decorum within the House; and
+    * liasing with Parliamentarians to ensure participation in the House; and
+    * any other tasks prescribed under the Standing Orders.
+* Deputies may be appointed.
+* The Game Administrator is to make a rule specifiying how the role of Speaker of the House is filled.
+
+#### President of the Senate
+
+* The President of the Senate manages the upper house of Parliament, the Senate.
+* The President of the Senate is tasked with:-
+    * chairing the Senate, and House of Representatives if required to; and
+    * updating Senate voting records and history; and
+    * updating the Senate subreddit and Discord channels;
+    * ensuring decorum within the Senate; and
+    * liasing with Parliamentarians to ensure participation in the Senate; and
+    * any other tasks prescribed under the Standing Orders.
+* Deputies may be appointed.
+* The Game Administrator is to make a rule specifiying how the role of President of the Senate is filled.
+
+### Moderators
+
+* The Moderators manage and moderate the AustraliaSim Discord and subreddits.
+* Moderators are tasked with:-
+    * enforcing the Code of Conduct;
+    * maintaining access and permissions on the Discord and subreddits;
+    * logging actions taken under the Code of Conduct correctly;
+    * maintaing a positive face for the community.
+* Moderators must be verifiably 18 years of age or older.
+* A member becomes a Moderator by:-
+    * Being nominated by the Community Administrator; and
     * passing a Meta Referendum.
-* Members of the Electoral Commission
-* The members of the Electoral Commission support the Electoral Commission to deliver elections when required.
+
+### Electoral Commission
+
+* The members of the Electoral Commission support the Game Administrator and Events Team to deliver simulated elections and regular simulated opinion polls.
 * A member becomes a member of the Electoral Commission by—
     * being nominated by the Game Administrator; and
     * passing a Meta Referendum.
-* Members of the Electoral Commission must face a Meta Referendum every 6 months which must return 50% approval.
-* Members of the Community Commission
-* The members of the Community Commission scrutinise Meta Rules proposed by the Moderation Team on behalf of the community.
-* A member becomes a member of the Community Commission by—
-    * being nominated in a community consultation; and
-    * either—
-        * being approved in a meta referendum; or
-        * being approved in a joint sitting; or
-        * being approved in a vote by the Justices.
-*  Members of the High Court of Australia
-* The Justices sit on the canon High Court of Australia and deal with disputes surrounding the interpretation, creation and application of Meta Rules.
-* This position does not require a meta referendum and is dealt with in canon.
 
+### Events Team
 
-## Part 3	Meta Rules
+* The members of the Events Team support the Game Administrator to deliver regular events to promote action by the Government, Opposition, and media outlets on particular issues.
+* The Game Administrator may make rules specifying the operation of Events.
+* A member becomes a member of the Event Team by—
+    * being nominated by the Game Administrator; and
+    * passing a Meta Referendum.
 
+## Rules
 
-
-* Meta Rules
-* Meta Rules are used to codify the powers, permissions, rules, requirements, management and moderation of AustraliaSim.
-* A Meta Rule may be created by an officeholder prescribing matters—
-    * required or permitted by this Meta Constitution to be prescribed by the Meta Rule; or
+* Rules are used to codify the powers, permissions, rules, requirements, management and moderation of AustraliaSim.
+* A Rule may be created prescribing matters—
+    * required or permitted by this Meta Constitution to be prescribed by the Rule; or
     * necessary or convenient to be prescribed for carrying out or giving effect to the matter required or permitted by this Meta Constitution to be prescribed.
-* A Meta Rule may delegate any power to any officeholder.
-* A Meta Rule may delegate the power to make Meta Rules to any officeholder.
-* Notice of enactment
+* A Rule may delegate any power to any meta position.
+* A Rule may delegate the power to make Rules to any meta position.
 
-Five days prior to the enactment of a Meta Rule, a post on r/AustraliaSimMeta must be made announcing the enactment of the Meta Rule.
+### Notice of enactment
 
-
-
-*  Retrospective Meta Rules
-
-A Meta Rule must which is retrospective must receive 70% approval in a Meta Referendum.
+At least three days prior to the enactment of a Rule, a post on r/AustraliaSimMeta must be made announcing the enactment of the Meta Rule.
 
 
 
-* Rejecting Meta Rules
-* A Meta Rule may be rejected though a meta referendum.
-* A meta referendum must be held on a Meta Rule within 14 days of a petition calling for a meta referendum, made by a member, receiving 7 seconders.
+### Retrospective Rules
+
+A Rule must which is retrospective must receive approval in a Meta Referendum.
+
+### Rejecting Rules
+
+* A Rule may be rejected though a Meta Referendum carrying at least 70% approval.
 
 
-## Part 4	Parliament
+## Elections and Events
 
 
-
-* 
-Parliamentary Meta Rules
-
-
-* Meta Rules which impact on the operation of Parliament are subject to approval from either—
-    * a Joint Sitting; or
-    * a Meta Referendum.
-* A Joint Sitting means a joint session of the current or most recent Parliament.
-* Where—
-    * the Parliament resolves to amend the Standing Orders through a canon motion to amend the Standing Orders; and
-    * the Game Administrator does not make those changes;
-
-    a Meta Referendum must be held on the issue within 14 days.
-
-
-
-
-* 
-Parliamentary Hangover
-
-
-* During the period between—
-    * the Proroguing of the House; and
-    * the day two days before the date of polling of that general election;
-
-    the Parliament must continue to sit to deal with business already before the Parliament, but must not introduce new business unless (2) or (3) applies.
-
-* Business of a procedural nature may be introduced.
-* Business may move between the chambers of Parliament as required.
-
-
-## Part 5 Elections and Events
-
-
-
-* Election
+### Elections
 
 In this Meta Constitution, election includes—
-
-
 
 * a general election; and
 * a by-election; and
 * a supplementary election; and
 * a vacancy in the Senate; and
 * a referendum; and
-* a plebiscite; and
-* any other similar thing.
-* The Electoral Commission
+* a plebiscite.
+
 * The Electoral Commission are responsible for delivering elections when called upon and are responsible for the management of elections and calculating election results.
-* The Electoral Commission consists of the Game Administrator, Game Administrator and members of the Electoral Commission.
 
+#### Simulated voting
 
+* Any Rule made relating to the conduct of canon elections must use full simulated voting, unless—
+    * the vote would change the fundamental nature or symbols of the simulation; amendment
+    * the Game Administrator has consulted the community; and
+    * the Game Administrator believes it is in the best interest of the simulation to use a method of voting other than full simulated voting.
+* A general description of the method used to simulate votes, without providing detail that would undermine security of the simulation, must be provided to the community.
 
-* 
-Simulated voting
-Any Meta Rule made relating to the conduct of canon elections must use full simulated voting, unless—
-
-
-
-* the vote would change the fundamental nature or symbols of the simulation; and
-* the Game Administrator has consulted the community; and
-* the Game Administrator believes it is in the best interest of the simulation to use a method of voting other than full simulated voting.
-
-
-
-* 
-Running elections
-
+#### Running elections
 
 * Elections must be called by the mechanism prescribed in the canon AustralianSim Constitution.
 * All election results must be verified in a manner which is approved unanimously by the Moderation Team.
-* Events
-* An event is a created canon happening which adds diversity and activity to the simulation.
-* An event may be either—
-    * created by the Electoral Commission; or
-    * taken from real life.
-* An event must be created every 4 weeks in which the Parliament is sitting.
 
 
+#### Events
 
-* 
-Management of Events
+* All aspects of the event, from its creation, management, and ending, are managed by the Events Team.
+* Other than when an event will take place, any person with knowledge must not directly or indirectly inform any other member of the details of an event before it is publicly released.
+* The polling and electoral effects of the event are to be determined by the Electoral Commission.
 
+## Miscellaneous
 
-* All aspects of the event, from its creation, management, and ending, are managed by the Electoral Commission.
-* Other than when an event will take place, any office holder with knowledge must not directly or indirectly inform any other member of the details of an event before it is publicly released.
-* The electoral effects of the event are to be determined by the Electoral Commission.
-
-
-## Part 7	Community Commission
-
-
-
-* 
-The Community Commission
-
-
-* The Community Commission comprises of up to 4 community-elected members, a representative from the Judiciary, and a representative from the Parliament.
-* The Community Commission considers proposed amendments to this Constitution and Meta Rules, providing feedback and redrafting if necessary.
-* Members of the Community Commission are elected within 14 days after each general election though a Meta Referendum.
-* The Judiciary and the Parliament shall make their own provisions on the selection of their representative in accordance with the general procedures of their workings.
-
-
-## Part 8 Miscellaneous
-
-
-
-* 
-The AustraliaSim canon
-
+### The AustraliaSim canon
 
 * When referring to the simulated country, government, institutions etc. of Australia, the name Australia is used.
 * Any reference to AustraliaSim in canon is a reference to Australia.
-* Until a Meta Rule is made, the Australian Constitution provides for the simulation of States and Territories and how to make laws which affect States and Territories.
+* Unless a specific Rule is made, the Australian Constitution provides for the simulation of States and Territories and how to make laws which affect States and Territories.
 * An event that occurs in real life is also an event that occurs in the AustraliaSim canon, except when the event conflicts with the existing AustraliaSim canon.
-* The Head Administrator may, by a Meta Rule not subject to the notice requirement of section 6, decanonise or clarify whether something is a part of the AustraliaSim canon.
+* The Game Administrator may, by a Rule not subject to the notice requirement of section 6, decanonise or clarify whether something is a part of the AustraliaSim canon.
 
+### Use of real symbols and logos
 
+* Due to legislation prohibiting "impersonation" of Australian Government bodies and entities, use of real-world Australian Government symbols and logos are strictly prohibited.
 
-* 
-Adjudication of disputes, Court of Meta Affairs, powers etc.
+!!! Note
+    Use the AustraliaSim [coat of arms](https://media.discordapp.net/attachments/926441541420060703/934319638811136030/unknown.png) instead!
 
+### Adjudication of disputes
 
-*  The Court of Meta Affairs is established.
-* Disputes concerning the correct interpretation of–
-    * this Meta Constitution,
-    * something done pursuant to this Meta Constitution; 
-    * a Meta Rule made under this Meta Constitution; or
-
-        disputes concerning--
-
-    * misconduct by an office holder; or
-    * any other similar thing;
-
-     are the jurisdiction of the Court of Meta Affairs.
-
-*  The Court of Meta Affairs may issue the following orders–
-    * prohibitory injunctions; 
-    * mandatory injunctions;
-    * any other orders which would have been required to be given had
-
-        the Meta Constitution or Meta Rule been interpreted correctly.
-
-* Disputes are initiated by posting on /r/AustraliaSimMeta.
+* Disputes in regards to the application of the Meta Constitution or Rules are initiated by application to a Guardian.
 * Disputes must be decided within 5 days with public reasons.
-* The Court of Meta Affairs must consist of the members comprising the Community Commission.
-* Permissions
 
-Unless otherwise provided by a Meta Rule, the following permissions are held—
+### Permissions
 
+Unless otherwise provided by a Rule, the following permissions are held—
 
+* the Guardian must own the AustraliaSim Discord, and have top moderator status on every subreddit;
+* the Administrators must have full administrator rights of the AustraliaSim Discord Server;
+* the Moderators must have the permissions as required to carry out their role.
+* the Clerks, Speaker of the House, Senate President, and deputies must have general administrator rights for the relevant subreddits and Discord channels.
 
-* the Moderation Team must have full ownership of the AustraliaSim Discord Server;
-* the Community Managers must have the permissions as required to carry out their role.
-* the Clerks, Speaker of the House, Senate President, and deputies must have general administrator rights for the relevant subreddits.
-* the Meta Guardians must have full ownership of the relevant subreddits.
+## Amendments
 
+### General procedure for amending Meta Constitution
 
-## Part 9 Amendments
-
-
-
-* 
-General procedure for amending Meta Constitution
-
-
-* In this section, any provision which conflicts with another provision of this Meta Constitution prevails, except section 3*
 * This Meta Constitution may be amended after—
     * public notice by a member from the Moderation Team or a petition consisting of 7 members nominating a proposed change; and
     * a five-day consultation period where members may nominate amendments; and
     * a Meta Referendum.
 
-
-
-* 
-Emergency amendments
-
+### Emergency amendments
 
 * An emergency amendment is an amendment of this Meta Constitution that, for the integrity, security or good functioning of AustraliaSim, requires immediate enactment.
 * The Moderation Team may enact an emergency amendment by unanimous approval of all Moderators.
@@ -478,13 +400,3 @@ Emergency amendments
 * If an emergency amendment does not pass the meta referendum—
     * the emergency amendment is automatically repealed; and
     * any done pursuant to the emergency amendment remains lawful.
-* **Amendments to reserved matters**
-* Nothing in this section affects the powers of the Community Administrator, including the power to refuse the use of AustraliaSim to any person.
-* An amendment to the Meta Constitution in relation to any of the reserved matters in section 35(3) may only be made after—
-    * public notice by a member from the Moderation Team or a petition consisting of 14 members nominating a proposed change; and
-    * a five-day consultation period where members may nominate amendments; and
-    * a Meta Referendum which must return 65% approval.
-* An amendment to the Meta Constitution in relation to the following reserved matters may be made only in accordance with section 35(2)—
-    * an amendment refusing the use of AustraliaSim to any person;
-    * an amendment removing a refusal of use of AustraliaSim to any person; or
-    * an amendment to this Section.
