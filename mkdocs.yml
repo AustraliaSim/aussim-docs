@@ -1,6 +1,6 @@
 # Project Information
 site_name: AustraliaSim Docs
-site_url: https://australiasim.github.io
+site_url: https://australiasim.github.io/aussim-docs/
 edit_uri: https://github.com/AustraliaSim/aussim-docs/edit/main/docs/
 
 
@@ -33,9 +33,16 @@ extra:
     - icon: fontawesome/brands/reddit
       link: https://reddit.com/r/australiasim
 
+nav:
+  - Home: '../'
+  - 'Meta Constitution': '/constitution/'
+  - 'Code of Conduct': '/code-of-conduct/'
+
 markdown_extensions:
   - attr_list
   - md_in_html
   - admonition
   - pymdownx.details
   - pymdownx.superfences
+  - toc:
+      permalink: "#"
