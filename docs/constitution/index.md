@@ -2,19 +2,19 @@
 
 ## Options to vote on
 **1. Game Admin 18+ or 16+**  
-[View here](/constitution/#appointment)  
+[View here](/aussim-docs/constitution/#appointment)  
 If 16+ is voted for, it passing is dependent on 2. passing as well.
 
 **2. Game Admin is inherently a Moderator or not**
-[View here](/constitution/#powers-and-de-facto-appointements)  
+[View here](/aussim-docs/constitution/#powers-and-de-facto-appointements)  
 If this is voted for, the Game Admin is not required to be an active Discord/Subreddit Moderator so they can focus on running the canon.
 
 **3. Change VoCs to be less regular**  
-[View here - admins/mod team](/constitution/#powers-and-de-facto-appointements)    
-[View here - Discord Moderators/Community Managers](/constitution/#moderators)    
-[View here - Clerks](/constitution/#clerks)  
-[View here - EC](/constitution/#electoral-commission)  
-[View here - Events](/constitution/#events-team)
+[View here - admins/mod team](/aussim-docs/constitution/#powers-and-de-facto-appointements)    
+[View here - Discord Moderators/Community Managers](/aussim-docs/constitution/#moderators)    
+[View here - Clerks](/aussim-docs/constitution/#clerks)  
+[View here - EC](/aussim-docs/constitution/#electoral-commission)  
+[View here - Events](/aussim-docs/constitution/#events-team)
 Reason - 6 months is excessive and ends up being procedure. 12 months allows more time for the quality of that person in their role to be reflected, and encourages use of VONCs if there is an issue otherwise. If this is voted against, Clerk/EC/Events will still be changed to 12 months but Admins/Mods will remin at 6.
 
 
@@ -167,7 +167,7 @@ The Administrators are the primary administrators of AustraliaSim and act as ove
 
 * An Administrator is appointed via a Meta Referendum that must return a 65% or more approval rating for the person nominated.
 * Administrators must be re-approved every 12 months.
-* [*[Administrators must verifiably be 18 years of age or older] OR [Administrators must be 16 years of age or older.]*](constitution/#options-to-vote-on)
+* [*[Administrators must verifiably be 18 years of age or older] OR [Administrators must be 16 years of age or older.]*](/aussim-docs/constitution/#options-to-vote-on)
 
 
 ### Head Administrator
@@ -254,7 +254,7 @@ The Administrators are the primary administrators of AustraliaSim and act as ove
 * A member becomes a Clerk by—
     * being nominated by the Game Administrator; and
     * passing a Meta Referendum.
-* _[Clerks must be re-approved every 12 months.](constitution/#options-to-vote-on)_
+* _[Clerks must be re-approved every 12 months.](/aussim-docs/constitution/#options-to-vote-on)_
 * The Game Administrator may make a rule that modifies the method of election and responsibilites for Clerks.
 * References to the Speaker of the House, President of the Senate and related deputies are taken to also be a reference to a Clerk.
 
@@ -293,7 +293,7 @@ The Administrators are the primary administrators of AustraliaSim and act as ove
     * logging actions taken under the Code of Conduct correctly;
     * maintaing a positive face for the community.
 * Moderators must be verifiably 18 years of age or older.
-* [Moderators must be re-approved every 12 months](constitution/#options-to-vote-on).
+* [Moderators must be re-approved every 12 months](/aussim-docs/constitution/#options-to-vote-on).
 * A member becomes a Moderator by:-
     * Being nominated by the Community Administrator; and
     * passing a Meta Referendum.
@@ -301,7 +301,7 @@ The Administrators are the primary administrators of AustraliaSim and act as ove
 ### Electoral Commission
 
 * The members of the Electoral Commission support the Game Administrator and Events Team to deliver simulated elections and regular simulated opinion polls.
-* _[Members must be re-approved every 12 months.](constitution/#options-to-vote-on)_
+* _[Members must be re-approved every 12 months.](/aussim-docs/constitution/#options-to-vote-on)_
 * A member becomes a member of the Electoral Commission by—
     * being nominated by the Game Administrator; and
     * passing a Meta Referendum.
@@ -310,7 +310,7 @@ The Administrators are the primary administrators of AustraliaSim and act as ove
 
 * The members of the Events Team support the Game Administrator to deliver regular events to promote action by the Government, Opposition, and media outlets on particular issues.
 * The Game Administrator may make rules specifying the operation of Events.
-* _[Members must be re-approved every 12 months.](constitution/#options-to-vote-on)_
+* _[Members must be re-approved every 12 months.](/aussim-docs/constitution/#options-to-vote-on)_
 * A member becomes a member of the Event Team by—
     * being nominated by the Game Administrator; and
     * passing a Meta Referendum.
