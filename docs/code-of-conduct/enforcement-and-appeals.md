@@ -1,4 +1,22 @@
-!!! note "Abusing the Code of Conduct"
+# Appeals
+
+```mermaid
+graph TD
+  A{Ban type} --> B[Permanent];
+  B--> F[Appeal to Head Mod via /r/AusSimConfidential];
+  A--> C[Warning/mute by Community Manager];
+  C--> G[Appeal to Community Moderator];
+  A--> D[Warning/mute by Mod Team member];
+  D--> G;
+  A--> E[Warning/mute by Community Moderator];
+  E--> H[Appeal to Head Moderator];
+  G--> H;
+  F--> I[Appeal to Guardians via /r/AusSimConfidential];
+  H--> I;
+```
+# Enforcement 
+
+!!! warning "Abusing the Code of Conduct"
     Do not attempt to misuse the Code of Conduct or moderation processes
     This includes but is not limited to Making false reports, or pinging moderators over things that aren’t reportable.
     Reports in good faith, even if unsuccessful, are not misuse.

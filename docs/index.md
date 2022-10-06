@@ -1,17 +1,1 @@
-# Welcome to MkDocs
-
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
-
-## Commands
-
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+![Welcome](https://images-ext-2.discordapp.net/external/tD5opvwAspRQi2E-Te1SVT7ioznYdvx5jZuZGHIsdDQ/https/img.buzzfeed.com/buzzfeed-static/static/2019-11/6/23/campaign_images/1503bcaae0cd/people-on-reddit-are-pretending-to-be-politicians-2-2273-1573082520-0_dblbig.jpg)

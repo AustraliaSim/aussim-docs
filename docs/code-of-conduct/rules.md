@@ -27,7 +27,7 @@ Provocation is a two-way street. Let's compare two examples:
 
 This is clearly not user A's fault. User B was provoked, but by themselves, and their response was abusive and against the rules.
 
-> User A: This First Nations Senator is a traitor and subhuman.
+> User A: This First Nations Senator is a traitor and subhuman.    
 > User B: What a terrible thing for you to say, go **** yourself.
 
 Whilst user B did abuse the other member, they were provoked by user A's promotion of hate speech and abusive language. Moderators would take action on user A rather than user B.
