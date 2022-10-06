@@ -161,7 +161,7 @@ The Administrators are the primary administrators of AustraliaSim and act as ove
 ### Powers and de-facto appointements
 
 * The Administrators may overrule any person acting under this Meta Constitution.
-* All Administrators are de-facto Community Managers, Electoral Commission members, and Clerks.
+* All Administrators are de-facto Electoral Commission members and Clerks. They optionally may also be Moderators.
 
 ### Appointment
 
