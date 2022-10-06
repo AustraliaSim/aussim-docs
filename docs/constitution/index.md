@@ -167,7 +167,7 @@ The Administrators are the primary administrators of AustraliaSim and act as ove
 
 * An Administrator is appointed via a Meta Referendum that must return a 65% or more approval rating for the person nominated.
 * Administrators must be re-approved every 12 months.
-* [*[Administrators must verifiably be 18 years of age or older] OR [Administrators must be 16 years of age or older.]*](/aussim-docs/constitution/#options-to-vote-on)
+* [*[Administrators must verifiably be 18 years of age or older] OR [The Head Administrator and Community Administrator must be verifably 18 years of age or older. The Game Administrator must be verifably 16 years of age or older.]*](/aussim-docs/constitution/#options-to-vote-on)
 
 
 ### Head Administrator
