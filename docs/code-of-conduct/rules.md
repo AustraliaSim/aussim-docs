@@ -67,9 +67,15 @@ This includes real-life figures.
 This includes matching your Discord account and/or Reddit account to that person.  
 This does not include the use of pictures for in-sim face steals. 
 
+## § 5 - Discord nicknames and identity
 
+Everyone on our Discord should be identifable and linked back to a Reddit account for those who participate in the simulation aspect. Some members are only in our Discord for #auspol content, and that is okay. 
 
-## § 5 - NSFW content
+All members who have a Reddit account and use it for AustraliaSim must have it either in their nickname within the server, or linked to their Discord account via the connections feature.
+
+It is okay to use a shortening or creative take on your Reddit username in your Discord nickname, as long as it is recognisable.
+
+## § 6 - NSFW content
 Do not post content which is not appropriate for all ages. 
 
 This is prohibited by the Discord Terms of Service where it states that NSFW content cannot be outside 18+ channels. We have no 18+ channels and are an all-ages community.
@@ -83,14 +89,14 @@ Content which is appropriate to be discussed in our community but may be distres
 
 This community is open to people aged 13 to 17 and therefore you must consider that this is an environment where vulnerable people should be protected from such content.
 
-## § 6 - Spam
+## § 7 - Spam
 Do not post such that it is disruptive to the server.
 This includes but is not limited to repeated pinging of users, posting the same thing or similar things multiple times in quick succession, posting very long messages for no reason, attempting to disrupt a conversation for no good reason, and posting memes outside of contextually appropriate conversations/locations.
 
-## § 7 - Breaking Reddit or Discord Rules.
+## § 8 - Breaking Reddit or Discord Rules.
 Do not violate the Reddit or Discord Terms of Service.
 
-## § 8 - Alting
+## § 9 - Alting
 Do not use more than one account in AustraliaSim, unless otherwise approved.
 This includes but is not limited to using multiple reddit accounts, or multiple discord accounts.
 This also includes attempts to vote multiple times in meta votes.
