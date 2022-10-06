@@ -33,11 +33,6 @@ extra:
     - icon: fontawesome/brands/reddit
       link: https://reddit.com/r/australiasim
 
-nav:
-  - Home: '../'
-  - 'Meta Constitution': '/constitution/'
-  - 'Code of Conduct': '/code-of-conduct/'
-
 markdown_extensions:
   - attr_list
   - md_in_html
