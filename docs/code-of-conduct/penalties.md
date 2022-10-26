@@ -1,4 +1,4 @@
-# Penalites
+# Penalties
 
 Moderators take the approach of solving issues and preventing escalation before taking punitive action, whenever possible.
 

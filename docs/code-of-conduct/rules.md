@@ -6,16 +6,20 @@ In a political Discord and simulation, discussions can easily be heated. Many co
 
 ### § 1(a) - Abuse
 
-Do not abuse other users.  
+Do not abuse other users.
+
 This includes (but is not limited to) any discriminatory language that degrades a person or persons based on race, gender identity, sexual orientation, body type, religion, etc.
 
-If you have a problem with another member, for any reason, it is inappropriate to confront them in public. Work it out in private, and failing that, contact the moderators with your grievance.
+If you have a disagreement with another member, where appropriate discuss it in private with them. People usually do not bite! If you still are having challenges you may discuss this with Moderators and Administrators. Discord is a public arena and should not be used as a space for confrontation.
 
 ### § 1(b) - Harassment and provocation
 
-Do not harass other users. 
-This includes but is not limited to intentionally pushing, badgering, provocating, and persistently troubling other users.  
-No-one owes you a response nor interaction. If they don't want to talk to you, leave them alone, or engage a Moderator.  
+Do not harass other users.
+
+This includes but is not limited to intentionally pushing, badgering, provocating, and persistently troubling other users.
+
+You may have the privilege to message others however this does not mean you should expect a response from them. This includes messages sent via Discord or Reddit DM's.
+
 This rule stretches to Discord direct messages and Reddit messages too.
 
 #### On provocation
@@ -30,7 +34,7 @@ This is clearly not user A's fault. User B was provoked, but by themselves, and 
 > User A: This First Nations Senator is a traitor and subhuman.    
 > User B: What a terrible thing for you to say, go **** yourself.
 
-Whilst user B did abuse the other member, they were provoked by user A's promotion of hate speech and abusive language. Moderators would take action on user A rather than user B.
+Whilst user B did abuse the other member, they were provoked by user A's promotion of hate speech and abusive language. Moderators would take this into consideration.
 
 ### § 1(c) - Hate spech
 Do not attempt to spread or encourage opinions which are hate speech or otherwise not appropriate in modern discourse.
@@ -43,14 +47,11 @@ Genuine belief is not a defence. You can genuinely believe something that isn't 
 
     For example, someone may disagree with the actions of a First Nations person when it comes to First Nations issues. Calling them a "race traitor", or calling into question their heritage, would be racism and therefore not allowed.
 
-    Moderator commentary:
-
-    I understand and generally agree with what you're saying. I think the one line that cannot ever be crossed is messages that cross into the legal barrier of hate speech. This includes s 18(c). For example, if someone came in promoting actual harm against people under the guise of political statement, then that would receive punishment. Same with something like "trans women are men". Whilst this is an opinion, it is incorrect, said in bad faith 99% of the time, and creates a hostile environment for the significant majority of our community. Sadly not many people who will come to a Discord saying intolerant and *phobic things will respond to education or reasons. We should take a nuanced approach when these things occur to both prevent harm to others and also ensure the person isn't sent further into the rabbit hole. Everyone should watch [this video on it.](https://www.youtube.com/watch?v=KLfL1Gm9QDM)
-
 ## § 2 - Threatening and illegal behaviour
 
-Do not threaten other users.  
-This includes but is not limited to threats of violence, threats of hacking, and threats of doxxing.  
+Do not threaten other users.
+
+This includes but is not limited to threats of violence, threats of hacking, other illegal activity, and threats of doxxing.
 It can also include threats of unfair treatment in the sim (e.g. blackmail in canon).  
 There is no need to show that the threat was capable of being fulfilled.
 
